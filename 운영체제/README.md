@@ -100,4 +100,4 @@
     - Running State Queue
     - Block State Queue
 
-#### 선점형과 비선점형 스케쥴러
+#### 선점형과 비선점형 스케쥴러 
